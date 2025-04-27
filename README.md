@@ -1,11 +1,9 @@
 ## Petrikov Denis (@vpmaill)
 
-###About Me
-
+### About Me
 20 y.o. 2nd year student of software engineering at RTU MIREA
 
-###Languaches I code in
-
+### Languaches I code in
 Python, Java, Lisp, JS, SQL
 <!--
 **vpmaill/vpmaill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
